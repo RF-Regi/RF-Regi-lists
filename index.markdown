@@ -24,4 +24,9 @@ Her blir det sendt ut mail som er relevant til dette, som kurs og lignende.
 ### [Lys-gruppen](https://groups.google.com/u/1/a/rfregi.no/g/lys)
 Dette er gruppen for de som driver med lys, design og lysstyring og annet som har med lys å gjøre.
 Her blir det sendt ut mail som er relevant til dette, som kurs og lignende. \
-[lys-gruppen sin epostliste finner du ved å klikke her](https://groups.google.com/u/1/a/rfregi.no/g/lys)
+[Lys-gruppen sin epostliste finner du ved å klikke her](https://groups.google.com/u/1/a/rfregi.no/g/lys)
+
+
+### [Utleie-gruppen](https://groups.google.com/u/1/a/rfregi.no/g/utleie)
+Dette er utleie-gruppen. Det er her utleieforespørsler kommer og man kan diskutere utleie, pakking, og få med seg hva som skjer.
+[Utleie-gruppen sin epostliste finner du ved å klikke her](https://groups.google.com/u/1/a/rfregi.no/g/utleie)
